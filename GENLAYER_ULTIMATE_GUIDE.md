@@ -1273,8 +1273,5 @@ class MyFirstContract(gl.Contract):
 
 ---
 
-**Guide Version:** 2.0  
-**Last Updated:** February 2026  
-**Verified Against:** Official GenLayer Documentation
 
 🚀 **Happy Building!**
