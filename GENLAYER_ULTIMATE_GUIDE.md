@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 Table of Contents
+##  Table of Contents
 
 ### Part 1: Foundations
 1. [What is GenLayer?](#what-is-genlayer)
@@ -58,11 +58,11 @@
 
 **GenLayer** is the world's first "Intelligent Blockchain" - a Layer 1 protocol that enables smart contracts to:
 
-- 🤖 **Use AI natively** - Call LLMs directly from contracts
-- 🌐 **Access the internet** - Fetch web data without oracles
-- 📝 **Process natural language** - Understand human-written text
-- ⚖️ **Make subjective decisions** - Handle nuanced, real-world logic
-- 🔗 **Reach deterministic consensus** - Despite non-deterministic operations
+-  **Use AI natively** - Call LLMs directly from contracts
+-  **Access the internet** - Fetch web data without oracles
+-  **Process natural language** - Understand human-written text
+-  **Make subjective decisions** - Handle nuanced, real-world logic
+-  **Reach deterministic consensus** - Despite non-deterministic operations
 
 **The Innovation:** GenLayer achieves consensus on non-deterministic operations (like LLM outputs) through **Optimistic Democracy** - validators running different AI models reach agreement on results.
 
