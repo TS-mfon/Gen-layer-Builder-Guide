@@ -1,8 +1,8 @@
 #  The Ultimate GenLayer Developer Guide
 ### From Zero to Production: Building Intelligent Contracts
 
-> **The most comprehensive, accurate, and production-ready guide to GenLayer development.**  
-> Last Updated: February 2026 | Guide Version: 2.0 | Verified against official docs
+> **The most comprehensive, accurate, and production-ready guide to GenLayer development. cc:Gen. Dave**  
+
 
 ---
 
