@@ -37,7 +37,7 @@ Let's dive in with pictures, not just words.
 ---
 
 <a name="architecture"></a>
-## 🏗️ The Big Picture: GenLayer Architecture
+##  The Big Picture: GenLayer Architecture
 
 ### Traditional Blockchain vs GenLayer
 
@@ -80,7 +80,7 @@ Let's dive in with pictures, not just words.
 ---
 
 <a name="flowchart-1"></a>
-## 📊 Flowchart 1: Basic Contract Execution Flow
+##  Flowchart 1: Basic Contract Execution Flow
 
 ### The Journey of a Simple Transaction
 
@@ -181,7 +181,7 @@ Let's dive in with pictures, not just words.
 ---
 
 <a name="flowchart-2"></a>
-## 🤖 Flowchart 2: AI Consensus Mechanism (The Magic!)
+##  Flowchart 2: AI Consensus Mechanism (The Magic!)
 
 ### How Multiple AIs Agree on Non-Deterministic Outputs
 
@@ -325,7 +325,7 @@ gl.eq_principle.prompt_comparative(function, "Must be within 20%")
 ---
 
 <a name="flowchart-3"></a>
-## 🌐 Flowchart 3: Web Data Integration Flow
+##  Flowchart 3: Web Data Integration Flow
 
 ### How Intelligent Contracts Access Real-World Data
 
@@ -513,7 +513,7 @@ Time →
 ---
 
 <a name="flowchart-4"></a>
-## 🔄 Flowchart 4: Complete Intelligent Contract Lifecycle
+##  Flowchart 4: Complete Intelligent Contract Lifecycle
 
 ### From Deployment to Execution (The Full Journey)
 
@@ -743,7 +743,7 @@ Development        Deployment         Execution          Monitoring
 ---
 
 <a name="diagrams"></a>
-## 🏛️ Architecture Diagrams
+##  Architecture Diagrams
 
 ### GenLayer Network Architecture
 
@@ -922,7 +922,7 @@ Development        Deployment         Execution          Monitoring
 ---
 
 <a name="mental-models"></a>
-## 🧠 Mental Models & Analogies
+##  Mental Models & Analogies
 
 ### The Restaurant Analogy
 
@@ -1019,7 +1019,7 @@ Each layer builds on the one below:
 ---
 
 <a name="patterns"></a>
-## 🎨 Common Patterns Visualized
+##  Common Patterns Visualized
 
 ### Pattern 1: Simple AI Analysis
 
@@ -1196,7 +1196,7 @@ def verify_article(self, url: str, question: str) -> dict:
 ---
 
 <a name="troubleshooting"></a>
-## 🔧 Troubleshooting Visual Guide
+## Troubleshooting Visual Guide
 
 ### Decision Tree: Why Isn't My Contract Working?
 
@@ -1332,7 +1332,7 @@ Causes:
 
 ---
 
-## 🎓 Learning Path Visualization
+##  Learning Path Visualization
 
 ### From Beginner to Expert
 
@@ -1399,7 +1399,7 @@ LEVEL 5: MASTERY
 
 ---
 
-## 🎯 Quick Reference Cheat Sheet
+##  Quick Reference Cheat Sheet
 
 ### The Essential Diagram
 
@@ -1450,7 +1450,7 @@ LEVEL 5: MASTERY
 
 ---
 
-## 🎬 Conclusion
+## Conclusion
 
 GenLayer intelligent contracts operate on a fundamentally different model than traditional smart contracts:
 
@@ -1467,7 +1467,7 @@ The flowcharts and diagrams in this guide show:
 
 ---
 
-## 📚 Further Resources
+## Further Resources
 
 - **Official Docs:** https://docs.genlayer.com
 - **Studio:** https://studio.genlayer.com
