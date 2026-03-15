@@ -1,12 +1,12 @@
-# 🎨 The Visual Guide to GenLayer Intelligent Contracts
+#  The Visual Guide to GenLayer Intelligent Contracts
 
-**Understanding AI-Powered Blockchain Through Diagrams, Flowcharts, and Architecture**
+**Understanding Genlayer Through Diagrams, Flowcharts, and Architecture**
 
 *A comprehensive visual journey into how GenLayer revolutionizes smart contracts with AI consensus*
 
 ---
 
-## 📚 Table of Contents
+##  Table of Contents
 
 1. [Introduction: Why Visualize GenLayer?](#introduction)
 2. [The Big Picture: GenLayer Architecture](#architecture)
@@ -22,7 +22,7 @@
 ---
 
 <a name="introduction"></a>
-## 🌟 Introduction: Why Visualize GenLayer?
+##  Introduction: Why Visualize GenLayer?
 
 GenLayer is fundamentally different from traditional blockchains. While Ethereum runs deterministic code, GenLayer runs **intelligent contracts** that use AI and web data. This paradigm shift can be confusing.
 
